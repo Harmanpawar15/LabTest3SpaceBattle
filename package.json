@@ -1,0 +1,19 @@
+{
+  "name": "labtest3",
+  "version": "1.0.0",
+  "description": "lab test 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harmanpawar15/LabTest3SpaceBattle"
+  },
+  "author": "Harmanpreet Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harmanpawar15/LabTest3SpaceBattle/issues"
+  },
+  "homepage": "https://github.com/Harmanpawar15/LabTest3SpaceBattle#readme"
+}
